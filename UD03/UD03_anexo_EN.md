@@ -11,7 +11,7 @@ typora-root-url: ${filename}/../
 typora-copy-images-to: ${filename}/../assets
 ---
 [toc]
-# Git
+# Git 
 
 ## Configuration (`git config`)
 
