@@ -17,7 +17,7 @@
       - `2. Actividades` : 3.1 Introduction
   - `UD01_Ejercicios_02`: Del documento [UD01_ejercicios_ES.pdf](UD01/UD01_ejercicios_ES.pdf) realiza: el punto del Comic.
   - `UD01_Ejercicios_03`: Del documento [UD01_ejercicios_ES.pdf](UD01/UD01_ejercicios_ES.pdf) dentro del apartado `1.Excercises` realiza desde el punto 3 al 9.
-  - `UD01_Presentation`: Elige uno de los Desarrollos Agiles (Kanban, SCRUM, XP) y confirma tu selección con el profesor. Realiza una presentación sobre dicha técnica ágil en fomato ["Pecha Kucha"](https://es.wikipedia.org/wiki/PechaKucha). Adjunta tu presentación en formato pdf. Las presentaciones serán presentadas en clase.
+  - `UD01_Presentation`: Elige uno de los Desarrollos Ágiles (Kanban, SCRUM, XP) y confirma tu selección con el profesor. Realiza una presentación sobre dicha técnica ágil en fomato ["Pecha Kucha"](https://es.wikipedia.org/wiki/PechaKucha). Adjunta tu presentación en formato pdf. Las presentaciones serán presentadas en clase.
 
 ## UD02: Instalando y usando un IDE
 ### Contenido
